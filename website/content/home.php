@@ -1,2 +1,13 @@
-<p>Welcome to test CI/CD Pipeline Project</p>
-</p>Hello, World</p>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Welcome to test CI/CD Pipeline Project</h1>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
+</html>
