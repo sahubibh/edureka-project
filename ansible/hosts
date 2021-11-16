@@ -1,5 +1,2 @@
-[test]
-10.188.0.2 ansible_user=devops ansible_ssh_pass=today@1234
-
-[prod]
+[QA]
 10.188.0.2 ansible_user=devops ansible_ssh_pass=today@1234
